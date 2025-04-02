@@ -21,7 +21,7 @@ public class PresentationV2 {
             IMetier metier = (IMetier) cMetier.getConstructor(IDao.class).newInstance(dao);
 
 
-            // instanciation via le seter par parametre
+            // instanciation  via le seter par parametre
             Method setDao = cMetier.getMethod("setDao", IDao.class);
             // invoke(executer) c a d j'execute la methode sur l'object metier , on passe par parametre objet dao
             setDao.invoke(metier ,dao);
