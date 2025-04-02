@@ -14,10 +14,10 @@
 <img src="captures/MetierImpl.png">
 
 
-<h3>- Faire l'injection des dépendances Par instanciation statique </h3>
+<h3>- Injection des dépendances Par instanciation statique </h3>
 <img src="captures/PresentationV1.png">
 
-<h3>- Faire l'injection des dépendances Par instanciation dynamique</h3>
-<img src="captures/Presentationv2.png">
+<h3>- Injection des dépendances Par instanciation dynamique</h3>
+<img src="captures/PresentationV2.png">
 
 
