@@ -13,7 +13,5 @@ public class PresentationV1 {
         //metier.setDao(d); // Injection via le setter
         System.out.println("Result: " + metier.calcul());
 
-
-
     }
 }
